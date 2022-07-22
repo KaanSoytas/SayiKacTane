@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\listduplicate\listduplicate\bin\Debug\listduplicate.exe.config
+C:\Users\Lenovo\source\repos\listduplicate\listduplicate\bin\Debug\listduplicate.exe
+C:\Users\Lenovo\source\repos\listduplicate\listduplicate\bin\Debug\listduplicate.pdb
+C:\Users\Lenovo\source\repos\listduplicate\listduplicate\obj\Debug\listduplicate.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\listduplicate\listduplicate\obj\Debug\listduplicate.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\listduplicate\listduplicate\obj\Debug\listduplicate.exe
+C:\Users\Lenovo\source\repos\listduplicate\listduplicate\obj\Debug\listduplicate.pdb
